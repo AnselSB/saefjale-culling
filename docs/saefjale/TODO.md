@@ -1,0 +1,7 @@
+- Learn raylib
+	- Understand how linear algebra is done []
+	- Understand how we can get input from the keyboard [x]
+	- Breakdown the setup for textures []
+	- Come up with a standard way of creating scenes and controlling the UI []
+	- Learn how sound effects and BGM is managed []
+	- Look into linking customer header files we define []
