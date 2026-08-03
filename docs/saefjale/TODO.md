@@ -1,7 +1,9 @@
 - Learn raylib
 	- Understand how linear algebra is done []
+		- briefly messed around with the rotation, very similar to what I'm used to in terms of glm library so it shouldn't be too bad
 	- Understand how we can get input from the keyboard [x]
-	- Breakdown the setup for textures []
+	- Breakdown the setup for textures [x] make an image object apply transformations and then load the texture before the start of the game loop
+		- one question is now how is the best  way to represent things? ECS maybe?
 	- Come up with a standard way of creating scenes and controlling the UI []
 	- Learn how sound effects and BGM is managed []
-	- Look into linking customer header files we define []
+	- Look into linking custom header files we define []
